@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanc8&count_private=true&show_icons=true&theme=algolia)
 
 </div>
-<p align="right">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=renanc8&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 <p/>
 
