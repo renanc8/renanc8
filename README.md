@@ -9,14 +9,14 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
  
 ### Tools:
-![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&labelColor=black)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=yellow)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Sublime Text](https://img.shields.io/badge/sublime_text-000000?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![Sublime Text](https://img.shields.io/badge/sublime_text-0D1117?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
   
 ### Studying in this moment:
